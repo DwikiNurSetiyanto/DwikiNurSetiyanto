@@ -65,7 +65,7 @@ dan membangun aplikasi yang bermanfaat.
       PBL-TRPL105-AM5 Semester 1
     </td>
     <td>Backend Developer</td>
-    <td>PHP, CodeIgniter, MySQL</td>
+    <td>PHP Native, MySQL</td>
   </tr>
   <tr>
     <td>
